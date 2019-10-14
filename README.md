@@ -25,6 +25,7 @@ Online Group
 ------------
 
 -  QQ群 : 6659099
+-  Email: linzhonghong2010@gmail.com
 
 How to run
 ----------------
